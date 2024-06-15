@@ -1,5 +1,5 @@
 package view;
-
+//ola :'D
 import java.awt.EventQueue;
 import java.awt.Graphics;
 import java.awt.Image;
